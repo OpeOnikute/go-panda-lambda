@@ -279,6 +279,8 @@ github.com/opeonikute/panda v0.0.0-20200621132119-5d7308fd057a h1:aIsH/nT60Calsz
 github.com/opeonikute/panda v0.0.0-20200621132119-5d7308fd057a/go.mod h1:ya0s3Hs+zTac4pVUKVeMBiE3/Hbqf1i7yW52b08Moxk=
 github.com/opeonikute/panda v0.0.0-20200815092344-526c69ddd8b7 h1:rPgLoFu9vRNBLJsNuf9RP0+B+dSAhKZC+XnSg8rRMPc=
 github.com/opeonikute/panda v0.0.0-20200815092344-526c69ddd8b7/go.mod h1:ya0s3Hs+zTac4pVUKVeMBiE3/Hbqf1i7yW52b08Moxk=
+github.com/opeonikute/panda v0.0.0-20200815093138-7ce9f32e558d h1:Zqi1xijSpv359deUxZej3SsQiZDJjF8hr/AX/PMXNOs=
+github.com/opeonikute/panda v0.0.0-20200815093138-7ce9f32e558d/go.mod h1:ya0s3Hs+zTac4pVUKVeMBiE3/Hbqf1i7yW52b08Moxk=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
 github.com/pelletier/go-toml v1.4.0/go.mod h1:PN7xzY2wHTK0K9p34ErDQMlFxa51Fk0OUruD3k1mMwo=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
